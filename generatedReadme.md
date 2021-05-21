@@ -1,17 +1,24 @@
-# Dylan McAulay [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+# Dylan [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
 # Description
-asdfaslkjfd
+It is the best
 
 # Table of Contents
+- [Installation](#installation)
+
+- [Usage](#usage)
+
+- [License](#license)
+
+- [Contributing](#contributing)
 
 # Installation
 
 # Usage
 
-# License [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
-    This project uses the IBM Public License Version 1.0 license.
+# License [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
+    This project uses the The zlib/libpng License license.
     
-    License Link: https://opensource.org/licenses/IPL-1.0
+    License Link: https://opensource.org/licenses/Zlib
 
 # Contributing
 

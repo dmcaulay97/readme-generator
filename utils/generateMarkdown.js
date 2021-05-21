@@ -99,24 +99,33 @@ function renderLicenseSection(license) {
   const [badge, link] = renderLicenseBadge(license);
   if (license == "none") {
     section = "";
+    contents = "";
   } else {
     section = `# License ${badge}
     This project uses the ${license} license.
     
     License Link: ${link}`;
+    contents = "- [License](#license)"
   }
-  return section;
+  return [section, contents];
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   const [badge] = renderLicenseBadge(data.license);
-  const licenseSection = renderLicenseSection(data.license)
+  const [licenseSection, contents] = renderLicenseSection(data.license)
   return `# ${data.title} ${badge}
 # Description
 ${data.description}
 
 # Table of Contents
+- [Installation](#installation)
+
+- [Usage](#usage)
+
+${contents}
+
+- [Contributing](#contributing)
 
 # Installation
 
