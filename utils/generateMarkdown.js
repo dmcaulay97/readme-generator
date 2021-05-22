@@ -128,17 +128,23 @@ ${contents}
 - [Contributing](#contributing)
 
 # Installation
+${data.install}
 
 # Usage
+${data.usage}
 
 ${licenseSection}
 
 # Contributing
+${data.contribution}
 
 # Tests
+${data.test}
 
 # Questions
+Github Username: [${data.github}](https://github.com/${data.github})
 
+Email: ${data.email}
   `;
 }
 
