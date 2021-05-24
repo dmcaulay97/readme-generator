@@ -17,6 +17,8 @@ To install this application simply clone the repo and install the requisite npm 
 # Usage
 To use the application simply run the index.js file in theterminal, "node index.js". The user will be prompted to enter info regarding their project and when all fields have been filled out a success message will diplay in the terminal. The generated readme file will be located in the generated-README directory (this structure is used to differentiate between the created readme and the readme that belongs to this project).
 
+Link to demonstration video: [Demo Video](https://drive.google.com/file/d/13NVuY5K6aTn1h2DD7pVSHXOKBFXaWfkU/view?usp=sharing)
+
 
 
 # Contributing
