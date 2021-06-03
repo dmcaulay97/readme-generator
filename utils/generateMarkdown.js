@@ -143,7 +143,7 @@ ${data.contribution}
 ${data.test}
 
 # Questions
-Github Username: [${data.github}](https://github.com/${data.github})
+Github: [${data.github}](https://github.com/${data.github})
 
 Email: ${data.email}
   `;
