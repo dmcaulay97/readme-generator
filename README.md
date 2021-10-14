@@ -1,5 +1,6 @@
 # README-Generator 
 # Description
+![img](./readme-gen.PNG)
 This command line application is designed to aid in the creation of a professional README file for open source github projects. It automates all markdown syntax and styling as well as adding a license badge that links to the license information webpage. This README was created using this application.
 
 # Table of Contents
